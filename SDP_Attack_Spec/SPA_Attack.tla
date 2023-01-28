@@ -1315,6 +1315,3 @@ FwCorrectProperty ==\*to simplify the model, we don't consider TCP packets re-tr
                                     WithDropPkts(x)   
        )          
 =============================================================================
-\* Modification History
-\* Last modified Mon Jan 16 20:56:20 CST 2023 by 10227694
-\* Created Tue Dec 28 09:34:21 CST 2021 by 10227694
